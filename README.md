@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratham Gavadia</h1>
-<h3 align="center">A passionate python developer from India</h3>
+<h3 align="center">A passionate python developer and data analyst</h3>
 
 - 🤝 I’m looking for help with **Python libraries**
 
