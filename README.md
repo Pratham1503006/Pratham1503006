@@ -1,19 +1,121 @@
-<h1 align="center">Hi 👋, I'm Pratham Gavadia</h1>
-<h3 align="center">A passionate python developer and data analyst</h3>
+## Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Pratham
 
-- 🤝 I’m looking for help with **Python libraries**
+Web Developer | DSA Enthusiast | Data Science, ML & AI Explorer
 
-- 📫 How to reach me **pkg15006@gmail.com**
+### Programming languages
 
-- ⚡ Fun fact **I am passionate about python**
+<a href="#">
+    <img src="https://raw.githubusercontent.com/fenix-hub/ColoredBadges/master/svg/dev/languages/python.svg">
+</a> 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/prage_510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prage_510" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/leap_world_64" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="leap_world_64" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/pratzz51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pratzz51" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pkg15006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pkg15006" height="30" width="40" /></a>
+<a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg">
+</a>
+
+<a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg">
+</a> 
+
+<a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg">
+</a> 
+
+<a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg">
+</a> 
+
+<a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg">
+</a> 
+
+<br>
+
+<div align="center"> 
+<h2 align="center">Leetcode Info<h2>  
+<p align="center">
+  <a href="https://leetcode.com/pkg15006/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-07.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/pkg15006/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/pkg15006/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/pkg15006/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### Tools and Technologies
+
+<a href="#">
+    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/new-badges/svg/dev/tools/git.svg">
+</a> 
+<a href = "#">
+    <img src = "https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/datascience.svg">
+</a>
+<a href="#">
+    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/new-badges/svg/dev/services/github.svg">
+</a> 
+
+<a href="#">
+    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/new-badges/svg/dev/tools/docker.svg">
+</a> 
+
+<a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bash.svg">
+</a> 
+<a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/powershell.svg">
+</a> 
+
+<br>
+
+<a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg">
+</a> 
+<a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/jetbrains_intellij.svg">
+</a> 
+<a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/leetcode.svg">
+</a> 
+<a> 
+    <img src="https://raw.githubusercontent.com/PoorPocketsMcNewHold/ColoredBadges/refs/heads/master/svg/devices/linux.svg">
+</a>
+
+<a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/google_cloud_platform.svg">
+</a> 
+
+<a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/services/azure.svg">
+</a> 
+<br>
+<br>
+
+**Certifications:** Proud participant in tech & data science events—always upskilling!  
+**Social:** [LinkedIn](https://www.linkedin.com/in/pratham-gavadia/)
+
+**When I’m not coding:**  
+You’ll find me watching sports, diving into tech stories, or enjoying a good tragedy narrative.
+
+### GitHub Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pratham1503006&theme=radical&hide_border=false" alt="GitHub Streak Stats"/>
+</div>
+[![Pratham's Github stats](https://github-readme-stats-nu-peach-96.vercel.app/api?username=pratham1503006&theme=dracula)]()
+
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shravanasati&theme=dracula&langs_count=4&hide=html,jupyter%20notebook&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<p align="center">
+    <a href="https://github.com/Jain-Tirth">
+    	<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=pratham1503006&bg_color=0D1117&color=9a11d9&line=11a0d9&point=C1F7D0&hide_border=true">
+    </a>
+</p>
+
+<br>
+
+ ### Contact me
+
+
+<a href="mailto:pkg15006@gmail.com">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/email_me.svg">
+</a>  
+
+<br>
+<br> 
