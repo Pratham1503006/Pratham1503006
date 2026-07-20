@@ -103,7 +103,7 @@ You’ll find me watching sports, diving into tech stories, or enjoying a good t
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shravanasati&theme=dracula&langs_count=4&hide=html,jupyter%20notebook&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <p align="center">
-    <a href="https://github.com/Jain-Tirth">
+    <a href="https://github.com/Pratham1503006">
     	<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=pratham1503006&bg_color=0D1117&color=9a11d9&line=11a0d9&point=C1F7D0&hide_border=true">
     </a>
 </p>
