@@ -97,7 +97,7 @@ You’ll find me watching sports, diving into tech stories, or enjoying a good t
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=pratham1503006&theme=radical&hide_border=false" alt="GitHub Streak Stats"/>
 </div>
-[![Pratham's Github stats](https://github-readme-stats-nu-peach-96.vercel.app/api?username=pratham1503006&theme=dracula)]()
+[![Pratham's Github stats](https://github-stats-extended.vercel.app/api?username=Pratham1503006&show_icons=true&include_all_commits=true&theme=transparent)]()
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shravanasati&theme=dracula&langs_count=4&hide=html,jupyter%20notebook&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
