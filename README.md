@@ -104,7 +104,7 @@ You’ll find me watching sports, diving into tech stories, or enjoying a good t
 
 <p align="center">
     <a href="https://github.com/Pratham1503006">
-    	<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=pratham1503006&bg_color=0D1117&color=9a11d9&line=11a0d9&point=C1F7D0&hide_border=true">
+    	<img align="center" src="https://github-stats-extended.vercel.app/api?username=Pratham1503006&show_icons=true&include_all_commits=true&theme=transparent">
     </a>
 </p>
 
