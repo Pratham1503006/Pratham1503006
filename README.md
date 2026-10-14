@@ -94,9 +94,7 @@ Web Developer | DSA Enthusiast | Data Science, ML & AI Explorer
 You’ll find me watching sports, diving into tech stories, or enjoying a good tragedy narrative.
 
 ### GitHub Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pratham1503006&theme=radical&hide_border=false" alt="GitHub Streak Stats"/>
-</div>
+
 [![Pratham's Github stats](https://github-stats-extended.vercel.app/api?username=Pratham1503006&show_icons=true&include_all_commits=true&theme=transparent)]()
 
 
